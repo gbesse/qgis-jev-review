@@ -1,0 +1,15 @@
+[general]
+name=Jev Feature Review
+qgisMinimumVersion=3.34
+description=Review selected feature attributes with typed Jev categories and exact feature IDs.
+version=0.1.0
+author=Guillaume Besse
+email=
+about=Preview finite semantic classifications for selected features. No geometry is transmitted.
+repository=https://github.com/gbesse/qgis-jev-review
+tracker=https://github.com/gbesse/qgis-jev-review/issues
+homepage=https://github.com/gbesse/qgis-jev-review
+category=Vector
+experimental=True
+deprecated=False
+hasProcessingProvider=False

@@ -1,0 +1,13 @@
+[project]
+name = "qgis-jev-review"
+version = "0.1.0"
+description = "Exact-feature typed Jev review for QGIS"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
